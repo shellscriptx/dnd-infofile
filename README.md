@@ -1,6 +1,6 @@
-##dnd-infofile.sh
+#dnd-infofile.sh
 
-###Descrição
+##Descrição
 
 O dnd-infofile.sh é um script com interface desenvolvido para obter informações sobre um arquivo utilizando o recurso drag-n-drop, conhecido tradicionalmente como arrasta e solta.
 
@@ -32,7 +32,7 @@ bash dnd-infofile.sh
 
 ***
 
-#### Uso
+## Uso
 
 Após a execução do script será exibida uma pequena janela drag-n-drop no canto superior esquerdo da tela, como a imagem a seguir:
 
@@ -57,19 +57,19 @@ Em seguida será exibido uma janela contendo as informações sobre o arquivo.
 
 ***
 
-#### Desenvolvido por
+## Desenvolvido por
 
 Juliano Santos [SHAMAN]
 
 ***
 
-#### Bugs
+## Bugs
 
 Reporte possíveis erros enviando email para shellscriptx@gmail.com
 
 ***
 
-#### Página
+## Página
 
 [Shell Script X](http://shellscriptx.blogspot.com.br)
 
